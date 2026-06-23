@@ -4,7 +4,7 @@ An interactive multiple-choice quiz app for Grade 6 students covering all NCERT 
 
 ## 🌐 Live App
 
-👉 [Click here to play the quiz](https://YOUR-USERNAME.github.io/syon-grade6-quiz/Syon-Grade-6.html)
+👉 [Click here to play the quiz](https://syonshewaramani.github.io/syon-grade6-quiz/Syon-Grade-6.html)
 
 > Replace `YOUR-USERNAME` with your GitHub username after deployment.
 
